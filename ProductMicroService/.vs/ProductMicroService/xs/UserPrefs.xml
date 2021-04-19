@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FCDC28D5-F866-43D4-B94E-2E512D59C1AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.ProductMicroService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProductMicroService/Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="ProductMicroService/Model/Product.cs" Line="10" Column="44" />
+      <File FileName="ProductMicroService/Model/Category.cs" Line="11" Column="6" />
+      <File FileName="ProductMicroService/DbContexts/ProductContext.cs" Line="36" Column="12" />
+      <File FileName="ProductMicroService/Startup.cs" Line="45" Column="77" />
+      <File FileName="ProductMicroService/Repository/ICategoryRepository.cs" Line="11" Column="18" />
+      <File FileName="ProductMicroService/Repository/CategoryRepository.cs" Line="41" Column="20" />
+      <File FileName="ProductMicroService/Controllers/CategoryController.cs" Line="29" Column="9" />
+      <File FileName="ProductMicroService/Dockerfile" Line="1" Column="1" />
+      <File FileName="ProductMicroService/Program.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProductMicroService" expanded="True">
+            <Node name="ProductMicroService" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
+              <Node name="DbContexts" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
